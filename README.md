@@ -1,3 +1,3 @@
-# exampleSite
+# Website
 
-Example blog demo based on [hugoBasicExample](https://github.com/gohugoio/hugoBasicExample).
+www.bwilden.com
