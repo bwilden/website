@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bertrand Wilden</title>
+    <link>https://www.bwilden.com/</link>
+    <description>Recent content on Bertrand Wilden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bwilden.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POLI 204B - Quantitative Methods</title>
+      <link>https://www.bwilden.com/teaching/poli-204b/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bwilden.com/teaching/poli-204b/</guid>
+      <description>Week 1 </description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://www.bwilden.com/blog/2020-12-23-second-post/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bwilden.com/blog/2020-12-23-second-post/</guid>
+      <description>hi hi hi</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.bwilden.com/about/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bwilden.com/about/</guid>
+      <description>I am a Political Science PhD student at UC San Diego working on topics related to political participation and voter turnout.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.bwilden.com/contact/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bwilden.com/contact/</guid>
+      <description>bwilden@ucsd.edu</description>
+    </item>
+    
+    <item>
+      <title>Test Blog</title>
+      <link>https://www.bwilden.com/blog/2020-12-22-test-post/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bwilden.com/blog/2020-12-22-test-post/</guid>
+      <description>THIS IS A TEST!</description>
+    </item>
+    
+  </channel>
+</rss>
