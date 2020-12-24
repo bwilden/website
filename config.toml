@@ -14,7 +14,7 @@ googleAnalytics = "G-C02SNMB3TQ"
 
 [params]
 title = "Bertrand Wilden"
-description = "[Site Under Construction]"
+description = "This is for you Github :)"
 # gravatar = "soho@example.com"
 images = ["images/profile.jpeg"]
 profilePicture = "images/profile.jpeg"
