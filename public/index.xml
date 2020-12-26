@@ -44,6 +44,16 @@
     </item>
     
     <item>
+      <title>Data</title>
+      <link>https://www.bwilden.com/data/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bwilden.com/data/</guid>
+      <description>bper: Bayesian Prediction for Ethnicity and Race (https://github.com/bwilden/bper)
+ bper_data.RData  </description>
+    </item>
+    
+    <item>
       <title>Test Blog</title>
       <link>https://www.bwilden.com/blog/2020-12-22-test-post/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>

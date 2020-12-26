@@ -5,6 +5,5 @@ description: Data Downloads
 title: Data
 ---
 
-bper: Bayesian Prediction for Ethnicity and Race (<https://github.com/bwilden/bper>)
-
--   [bper_data.RData](/data/bper_data.RData)
+bper: Bayesian Prediction for Ethnicity and Race \[[Github](https://github.com/bwilden/bper)\]
+-   [bper\_data.RData](/data/bper_data.RData)
