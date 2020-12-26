@@ -74,6 +74,12 @@ themeColor = "#103E4F"
   weight = 4
   url = "/teaching"
   
+  [[menu.main]]
+  name = "Data"
+  identifier = "data"
+  weight = 5
+  url = "/data"
+  
 ##  [[menu.main]]
 ##  name = "Categories"
 ##  weight = 200
