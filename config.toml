@@ -75,7 +75,7 @@ themeColor = "#103E4F"
   url = "/teaching"
   
   [[menu.main]]
-  name = "Data"
+  name = "Code Projects"
   identifier = "data"
   weight = 5
   url = "/data"
@@ -105,7 +105,6 @@ themeColor = "#103E4F"
   style = "monokai"
   tabWidth = 4
 
-[markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
