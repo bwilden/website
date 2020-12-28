@@ -35,22 +35,21 @@
     </item>
     
     <item>
+      <title>Code Projects</title>
+      <link>https://www.bwilden.com/data/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bwilden.com/data/</guid>
+      <description>bper: Bayesian Prediction for Ethnicity and Race</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://www.bwilden.com/contact/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.bwilden.com/contact/</guid>
       <description>bwilden@ucsd.edu</description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://www.bwilden.com/data/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bwilden.com/data/</guid>
-      <description>bper: Bayesian Prediction for Ethnicity and Race [Github]
- bperdata  </description>
     </item>
     
     <item>
