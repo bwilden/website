@@ -104,3 +104,8 @@ themeColor = "#103E4F"
   noClasses = true
   style = "monokai"
   tabWidth = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
