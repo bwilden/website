@@ -6,14 +6,14 @@
     <description>Recent content on Bertrand Wilden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bwilden.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bwilden.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>POLI 204B - Quantitative Methods</title>
       <link>https://www.bwilden.com/teaching/poli-204b/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.bwilden.com/teaching/poli-204b/</guid>
-      <description>Week 1 </description>
+      <description>Week 1  Cheatsheets  RMarkdown Importing data with readr Wrangling data with dplyr   Workflow philosophy  RProject Oriented Workflow RMarkdown Driven Development Science as Amateur Sofware Development (Video)   For fun  A Reproducible Workflow (Video) Themes for RStudio    </description>
     </item>
     
     <item>
@@ -36,10 +36,10 @@
     
     <item>
       <title>Code Projects</title>
-      <link>https://www.bwilden.com/data/</link>
+      <link>https://www.bwilden.com/code-projects/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bwilden.com/data/</guid>
+      <guid>https://www.bwilden.com/code-projects/</guid>
       <description>bper: Bayesian Prediction for Ethnicity and Race</description>
     </item>
     
