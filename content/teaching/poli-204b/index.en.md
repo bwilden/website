@@ -9,6 +9,14 @@ draft: false
 ---
 
 ### Week 1
+- Code Files
+  - [Lab .R script](/docs/Lab1.R)
+  - [Lab .Rmd file](/docs/Lab1.Rmd)
+  - [Lab Stata .do file](/docs/Lab1_Stata.do)
+- Example Data Sets
+  - [Country Life Expectancy](/data/lifeexp.csv)
+  - [Example ASCII data](/data/07050-0001-Data-card_image.txt)
+  - [Example ASCII data codebook](/docs/07050-0001-Codebook-card_image.pdf)
 - Cheatsheets
   - [RMarkdown](/docs/rmarkdown-2.0.pdf)
   - [Importing data with `readr`](/docs/data-import.pdf)

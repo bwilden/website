@@ -1,0 +1,69 @@
+region,country,popgrowth,lexp,gnppc,safewater
+Eur & C.Asia,Albania,1.2,72,810,76
+Eur & C.Asia,Armenia,1.1,74,460,
+Eur & C.Asia,Austria,.40000001,79,26830,
+Eur & C.Asia,Azerbaijan,1.4,71,480,
+Eur & C.Asia,Belarus,.30000001,68,2180,
+Eur & C.Asia,Belgium,.2,78,25380,
+Eur & C.Asia,Bosnia and Herzegovina,-.5,73,,
+Eur & C.Asia,Bulgaria,-.40000001,71,1220,
+Eur & C.Asia,Croatia,-.1,73,4620,63
+Eur & C.Asia,Czech Republic,0,75,5150,
+Eur & C.Asia,Denmark,.2,76,33040,
+Eur & C.Asia,Estonia,-.1,70,3360,
+Eur & C.Asia,Finland,.40000001,77,24280,98
+Eur & C.Asia,France,.5,78,24210,100
+Eur & C.Asia,Georgia,.40000001,73,970,
+Eur & C.Asia,Germany,.30000001,77,26570,
+Eur & C.Asia,Greece,.5,78,11740,
+Eur & C.Asia,Hungary,-.30000001,71,4510,
+Eur & C.Asia,Ireland,.5,76,18710,
+Eur & C.Asia,Italy,.1,78,20090,
+Eur & C.Asia,Kazakhstan,.30000001,65,1340,
+Eur & C.Asia,Kyrgyz Republic,1.4,67,380,81
+Eur & C.Asia,Latvia,-.2,70,2420,
+Eur & C.Asia,Lithuania,.5,72,2540,
+Eur & C.Asia,Macedonia FYR,.30000001,73,1290,
+Eur & C.Asia,Moldova,.40000001,67,380,56
+Eur & C.Asia,Netherlands,.60000002,78,24780,100
+Eur & C.Asia,Norway,.40000001,78,34310,100
+Eur & C.Asia,Poland,.5,73,3910,
+Eur & C.Asia,Portugal,.1,75,10670,82
+Eur & C.Asia,Romania,.1,69,1360,62
+Eur & C.Asia,Russian Federation,.30000001,67,2260,
+Eur & C.Asia,Slovak Republic,.40000001,73,3700,
+Eur & C.Asia,Slovenia,.2,75,9780,98
+Eur & C.Asia,Spain,.30000001,78,14100,
+Eur & C.Asia,Sweden,.40000001,79,25580,
+Eur & C.Asia,Switzerland,.69999999,79,39980,100
+Eur & C.Asia,Tajikistan,2.4000001,69,370,69
+Eur & C.Asia,Turkey,2,69,3160,
+Eur & C.Asia,Turkmenistan,2.8,66,,60
+Eur & C.Asia,Ukraine,0,67,980,55
+Eur & C.Asia,United Kingdom,.30000001,77,21410,100
+Eur & C.Asia,Uzbekistan,2.3,69,950,57
+Eur & C.Asia,"Yugoslavia, FR (Serb./Mont.)",.5,72,,
+N.A.,Canada,1.2,79,19170,99
+N.A.,Cuba,.69999999,76,,93
+N.A.,Dominican Republic,2.0999999,71,1770,71
+N.A.,El Salvador,1.5,69,1850,55
+N.A.,Guatemala,2.5999999,64,1640,67
+N.A.,Haiti,2,54,410,28
+N.A.,Honduras,3,69,740,65
+N.A.,Jamaica,1,75,1740,70
+N.A.,Mexico,1.9,72,3840,83
+N.A.,Nicaragua,2.8,68,1896,81
+N.A.,Panama,1.9,74,2990,84
+N.A.,Puerto Rico,1,76,,97
+N.A.,Trinidad and Tobago,1,73,4520,82
+N.A.,United States,1,77,29240,
+S.A.,Argentina,1.4,73,8030,65
+S.A.,Bolivia,2.2,62,1010,55
+S.A.,Brazil,1.7,67,4630,72
+S.A.,Chile,1.6,75,4990,85
+S.A.,Colombia,2,70,2470,78
+S.A.,Ecuador,2.4000001,70,1520,70
+S.A.,Paraguay,2.9000001,70,1760,39
+S.A.,Peru,2,69,2440,80
+S.A.,Uruguay,.69999999,74,6070,89
+S.A.,Venezuela,2.4000001,73,3530,79
