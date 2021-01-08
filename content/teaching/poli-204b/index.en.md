@@ -14,6 +14,7 @@ draft: false
   - [Importing data with `readr`](/docs/data-import.pdf)
   - [Wrangling data with `dplyr`](/docs/data-transformation.pdf)
   - [Making nice tables with `kableExtra`](https://haozhu233.github.io/kableExtra/awesome_table_in_html.html)
+  - [Creating graphs with `ggplot2`](/docs/ggplot2-cheatsheet-2.1.pdf)
 - Workflow philosophy
   - [RProject Oriented Workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)
   - [RMarkdown Driven Development](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/)
