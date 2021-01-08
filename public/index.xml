@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Second Post</title>
-      <link>https://www.bwilden.com/blog/2020-12-23-second-post/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bwilden.com/blog/2020-12-23-second-post/</guid>
-      <description>hi hi hi</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://www.bwilden.com/about/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
@@ -51,15 +42,6 @@
       <guid>https://www.bwilden.com/contact/</guid>
       <description>bwilden@ucsd.edu
  </description>
-    </item>
-    
-    <item>
-      <title>Test Blog</title>
-      <link>https://www.bwilden.com/blog/2020-12-22-test-post/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bwilden.com/blog/2020-12-22-test-post/</guid>
-      <description>THIS IS A TEST!</description>
     </item>
     
   </channel>
