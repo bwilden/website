@@ -8,11 +8,11 @@ tags: []
 draft: false
 ---
 
-### Week 1
+## Week 1
 - Code Files
-  - [Lab .R script](/docs/Lab1.R)
-  - [Lab .Rmd file](/docs/Lab1.Rmd)
-  - [Lab Stata .do file](/docs/Lab1_Stata.do)
+  - [.R script](/code/lab1.R)
+  - [.Rmd file](/code/lab1.Rmd)
+  - [.do Stata file](/code/Lab1_Stata.do)
 - Example Data Sets
   - [Country Life Expectancy](/data/lifeexp.csv)
   - [Example ASCII data](/data/07050-0001-Data-card_image.txt)
@@ -31,3 +31,16 @@ draft: false
   - [A Reproducible Workflow (Video)](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=emb_title&ab_channel=bartomeuslab)
   - [Themes for RStudio](https://github.com/gadenbuie/rsthemes)
   
+  
+## Week 2
+- Code Files
+  - [.R script](/code/lab2.R)
+- Links
+  - [Sampling a Distribution (Video)](https://www.youtube.com/watch?v=XLCWeSVzHUU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=7&ab_channel=StatQuestwithJoshStarmer)
+  - [The Distribution Zoo](https://ben18785.shinyapps.io/distribution-zoo/)
+  - [Binomial Distribution Explainer (Video)](https://www.youtube.com/watch?v=8idr1WZ1A7Q&ab_channel=3Blue1Brown)
+  - [More on distributions in R](https://www.econometrics-with-r.org/2-1-random-variables-and-probability-distributions.html)
+  - [Central Limit Theorem Explainer - Less Complicated (Video)](https://www.youtube.com/watch?v=YAlJCEDH2uY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=18&ab_channel=StatQuestwithJoshStarmer)
+  - [Central Limit Theorem Explainer - More Complicated (Video)](https://www.youtube.com/watch?v=RzxYTQKjdTo&ab_channel=BenLambert)
+  - [Loops, Replicate, and `purrr` in R](https://aosmith.rbind.io/2018/06/05/a-closer-look-at-replicate-and-purrr/)
+  - [Fake data simulation with `fabricatr` package](https://declaredesign.org/r/fabricatr/)
