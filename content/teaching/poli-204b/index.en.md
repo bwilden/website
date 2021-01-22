@@ -13,7 +13,7 @@ draft: false
   - [.R script](/code/lab1.R)
   - [.Rmd file](/code/lab1.Rmd)
   - [.do Stata file](/code/Lab1_Stata.do)
-- Example Data Sets
+- Data
   - [Country Life Expectancy](/data/lifeexp.csv)
   - [Example ASCII data](/data/07050-0001-Data-card_image.txt)
   - [Example ASCII data codebook](/docs/07050-0001-Codebook-card_image.pdf)
@@ -43,4 +43,16 @@ draft: false
   - [Central Limit Theorem Explainer - Less Complicated (Video)](https://www.youtube.com/watch?v=YAlJCEDH2uY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=18&ab_channel=StatQuestwithJoshStarmer)
   - [Central Limit Theorem Explainer - More Complicated (Video)](https://www.youtube.com/watch?v=RzxYTQKjdTo&ab_channel=BenLambert)
   - [Loops, Replicate, and `purrr` in R](https://aosmith.rbind.io/2018/06/05/a-closer-look-at-replicate-and-purrr/)
-  - [Fake data simulation with `fabricatr` package](https://declaredesign.org/r/fabricatr/)
+  - [Tips for Writing Better Functions in R](https://debruine.github.io/posts/function-tips/)
+  
+  
+## Week 3
+- Code Files
+  - [.R script](/code/lab3.R)
+  - [.do Stata files](/code/Lab3_Stata.do)
+  - [.Rmd for Problem 9 on Homework 2](/code/homework2_solutions.Rmd)
+- Data
+  - [Assassinations Data Set](/data/05208-0001-Data.txt)
+- Links
+  - [Hypothesis Testing Explainer (Video)](https://www.youtube.com/watch?v=0oc49DyA3hU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=8&ab_channel=StatQuestwithJoshStarmer)
+  - [P-Hacking (Video)](https://www.youtube.com/watch?v=HDCOUXE3HMM&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=12&ab_channel=StatQuestwithJoshStarmer)
