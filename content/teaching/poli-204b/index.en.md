@@ -72,3 +72,6 @@ draft: false
   - [Bivariate Regression by Hand](/docs/Regression-by-Hand-Example.pdf)
 - Links
   - [Fitting a Line to Data (Video)](https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU&ab_channel=StatQuestwithJoshStarmer)
+  - [Regression results with `broom`](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
+  - [Making nice tables with `texreg`](https://cran.r-project.org/web/packages/texreg/vignettes/texreg.pdf)
+  - [Scatter plots with `ggplot2`](http://www.sthda.com/english/wiki/ggplot2-scatter-plots-quick-start-guide-r-software-and-data-visualization)
