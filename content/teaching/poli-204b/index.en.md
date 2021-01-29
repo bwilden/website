@@ -57,3 +57,15 @@ draft: false
   - [Hypothesis Testing Explainer (Video)](https://www.youtube.com/watch?v=0oc49DyA3hU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=8&ab_channel=StatQuestwithJoshStarmer)
   - [P-Hacking (Video)](https://www.youtube.com/watch?v=HDCOUXE3HMM&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=12&ab_channel=StatQuestwithJoshStarmer)
   - [Food for thought](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf)
+
+  
+## Week 4
+- Code Files
+  - [.R script](/code/lab4.R)
+  - [.Rmd for Homework 3 Simulations](/code/homework3_solutions.Rmd)
+- Data
+  - [FishData](/data/fish.RData)
+- Slides
+  - [Bivariate Regression by Hand](/docs/Regression-by-Hand-Example.pdf)
+- Links
+  - [Fitting a Line to Data (Video)](https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU&ab_channel=StatQuestwithJoshStarmer)
