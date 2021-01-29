@@ -31,8 +31,6 @@ draft: false
   - [A Reproducible Workflow (Video)](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=emb_title&ab_channel=bartomeuslab)
   - [Themes for RStudio](https://github.com/gadenbuie/rsthemes)
   
-  
-  
 ## Week 2
 - Code Files
   - [.R script](/code/lab2.R)
@@ -46,8 +44,6 @@ draft: false
   - [Loops, Replicate, and `purrr` in R](https://aosmith.rbind.io/2018/06/05/a-closer-look-at-replicate-and-purrr/)
   - [Tips for Writing Better Functions in R](https://debruine.github.io/posts/function-tips/)
   
-
-  
 ## Week 3
 - Code Files
   - [.R script](/code/lab3.R)
@@ -59,8 +55,6 @@ draft: false
   - [Hypothesis Testing Explainer (Video)](https://www.youtube.com/watch?v=0oc49DyA3hU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=8&ab_channel=StatQuestwithJoshStarmer)
   - [P-Hacking (Video)](https://www.youtube.com/watch?v=HDCOUXE3HMM&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=12&ab_channel=StatQuestwithJoshStarmer)
   - [Food for thought](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf)
-
-
 
 ## Week 4
 - Code Files
