@@ -32,6 +32,7 @@ draft: false
   - [Themes for RStudio](https://github.com/gadenbuie/rsthemes)
   
   
+  
 ## Week 2
 - Code Files
   - [.R script](/code/lab2.R)
@@ -45,6 +46,7 @@ draft: false
   - [Loops, Replicate, and `purrr` in R](https://aosmith.rbind.io/2018/06/05/a-closer-look-at-replicate-and-purrr/)
   - [Tips for Writing Better Functions in R](https://debruine.github.io/posts/function-tips/)
   
+
   
 ## Week 3
 - Code Files
@@ -58,7 +60,8 @@ draft: false
   - [P-Hacking (Video)](https://www.youtube.com/watch?v=HDCOUXE3HMM&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=12&ab_channel=StatQuestwithJoshStarmer)
   - [Food for thought](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf)
 
-  
+
+
 ## Week 4
 - Code Files
   - [.R script](/code/lab4.R)
