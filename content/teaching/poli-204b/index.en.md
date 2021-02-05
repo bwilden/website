@@ -76,6 +76,6 @@ draft: false
   - [.do Stata file](/code/Lab5.do)
   - [.Rmd for Homework 4](/code/homework4_solutions.Rmd)
 - Data
-  - [FishData](/data/fish.RData)
+  - [FishData](/data/fish.csv)
 - Slides
   - [Matrix Regression by Hand](/docs/Regression-with-Matrix-Algebra.pdf)
