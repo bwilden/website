@@ -69,3 +69,13 @@ draft: false
   - [Regression results with `broom`](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
   - [Making nice tables with `texreg`](https://cran.r-project.org/web/packages/texreg/vignettes/texreg.pdf)
   - [Scatter plots with `ggplot2`](http://www.sthda.com/english/wiki/ggplot2-scatter-plots-quick-start-guide-r-software-and-data-visualization)
+  
+## Week 5
+- Code Files
+  - [.R script](/code/lab5.R)
+  - [.do Stata file](/code/Lab5.do)
+  - [.Rmd for Homework 4](/code/homework4_solutions.Rmd)
+- Data
+  - [FishData](/data/fish.RData)
+- Slides
+  - [Matrix Regression by Hand](/docs/Regression-with-Matrix-Algebra.pdf)
