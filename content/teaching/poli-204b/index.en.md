@@ -86,7 +86,7 @@ draft: false
   - [.Rmd for Homework 5](/code/homework5_solutions.Rmd)
 - Data
   - [county_elections.csv](/data/county_elections.csv)
-  - [nhgis2016state_gini.csv](/data/nhgis2015state_gini.csv)
+  - [nhgis2016state_gini.csv](/data/nhgis2016state_gini.csv)
   - [cbp_mini.csv](/data/cbp_mini.csv)
   - [stateicpsrfipscrosswalk.csv](/data/stateicpsrfipscrosswalk.csv)
 - Links
