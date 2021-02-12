@@ -79,3 +79,19 @@ draft: false
   - [FishData](/data/fish.csv)
 - Slides
   - [Matrix Regression by Hand](/docs/Regression-with-Matrix-Algebra.pdf)
+  
+## Week 6
+- Code Files
+  - [.R script](/code/lab6.R)
+  - [.Rmd for Homework 5](/code/homework5_solutions.Rmd)
+- Data
+  - [county_elections.csv](/data/county_elections.csv)
+  - [nhgis2016state_gini.csv](/data/nhgis2015state_gini.csv)
+  - [cbp_mini.csv](/data/cbp_mini.csv)
+  - [stateicpsrfipscrosswalk.csv](/data/stateicpsrfipscrosswalk.csv)
+- Links
+  - [Inverting a 3x3 Matrix](https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html)
+  - [Wrangling data with `dplyr`](/docs/data-transformation.pdf)
+  - [R for Data Science (book)](https://r4ds.had.co.nz/wrangle-intro.html)
+  - [Animated tutorial of dplyr's joins](https://github.com/gadenbuie/tidyexplain)
+  - [data.table guide](https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/)
