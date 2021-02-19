@@ -95,3 +95,15 @@ draft: false
   - [R for Data Science (book)](https://r4ds.had.co.nz/wrangle-intro.html)
   - [Animated tutorial of dplyr's joins](https://github.com/gadenbuie/tidyexplain)
   - [data.table guide](https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/)
+  
+## Week 7
+  - Code Files
+    - [.R script](/code/lab7.R)
+    - [.Rmd for Homework 6](/code/homework6_solutions.Rmd)
+  - Data
+    - [counties-clean.csv](/data/counties-clean.csv)
+  - Links
+    - [Interplot package](https://cran.r-project.org/web/packages/interplot/vignettes/interplot-vignette.html)
+    - [Fixed-effects explainer (Video)](https://www.youtube.com/watch?v=1WgDsYbUkY8&ab_channel=NickHuntington-Klein)
+    - [Dummy variable interactions (Video)](https://www.youtube.com/watch?v=ScKL40dp8M4&t=8s&ab_channel=BenLambert)
+    - [Continuous variable interactions (Video)](https://www.youtube.com/watch?v=HyA_Vgbc0t4&ab_channel=BenLambert)
