@@ -107,3 +107,13 @@ draft: false
     - [Fixed-effects explainer (Video)](https://www.youtube.com/watch?v=1WgDsYbUkY8&ab_channel=NickHuntington-Klein)
     - [Dummy variable interactions (Video)](https://www.youtube.com/watch?v=ScKL40dp8M4&t=8s&ab_channel=BenLambert)
     - [Continuous variable interactions (Video)](https://www.youtube.com/watch?v=HyA_Vgbc0t4&ab_channel=BenLambert)
+    
+## Week 8
+  - Code Files
+    - [.R script](/code/lab8.R)
+  - Data
+    - [counties-clean.csv](/data/counties-clean.csv)
+  - Links
+    - [Tidy model data with `broom`](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
+    - [Beamer slides in RMarkdown](https://bookdown.org/yihui/rmarkdown/beamer-presentation.html)
+    - [Templates for slides in RMarkdown](https://github.com/Pakillo/rmdTemplates)
