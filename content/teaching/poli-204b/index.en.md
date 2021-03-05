@@ -117,3 +117,11 @@ draft: false
     - [Tidy model data with `broom`](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
     - [Beamer slides in RMarkdown](https://bookdown.org/yihui/rmarkdown/beamer-presentation.html)
     - [Templates for slides in RMarkdown](https://github.com/Pakillo/rmdTemplates)
+    
+## Week 9
+  - Code Files
+    - [.R script](/code/lab9.R)
+  - Data
+    - [counties-clean.csv](/data/counties-clean.csv)
+  - Links
+    - [Robust Standard Errors and Instrumental Variables with `estimatr`](https://declaredesign.org/r/estimatr/articles/getting-started.html)
