@@ -125,3 +125,4 @@ draft: false
     - [counties-clean.csv](/data/counties-clean.csv)
   - Links
     - [Robust Standard Errors and Instrumental Variables with `estimatr`](https://declaredesign.org/r/estimatr/articles/getting-started.html)
+    - [Heteroskedasticity Consistent (Robust) and Cluster Robust Standard Errors (Video)](https://www.youtube.com/watch?v=XsyUzaZHs5o&ab_channel=MikkoR%C3%B6nkk%C3%B6)
