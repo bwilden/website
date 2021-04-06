@@ -48,7 +48,6 @@ draft: false
 - Code Files
   - [.R script](/code/lab3.R)
   - [.do Stata files](/code/Lab3_Stata.do)
-  - [.Rmd for Problem 9 on Homework 2](/code/homework2_solutions.Rmd)
 - Data
   - [Assassinations Data Set](/data/05208-0001-Data.txt)
 - Links
@@ -59,7 +58,6 @@ draft: false
 ## Week 4
 - Code Files
   - [.R script](/code/lab4.R)
-  - [.Rmd for Homework 3 Simulations](/code/homework3_solutions.Rmd)
 - Data
   - [FishData](/data/fish.RData)
 - Slides
@@ -74,7 +72,6 @@ draft: false
 - Code Files
   - [.R script](/code/lab5.R)
   - [.do Stata file](/code/Lab5.do)
-  - [.Rmd for Homework 4](/code/homework4_solutions.Rmd)
 - Data
   - [FishData](/data/fish.csv)
 - Slides
@@ -83,7 +80,6 @@ draft: false
 ## Week 6
 - Code Files
   - [.R script](/code/lab6.R)
-  - [.Rmd for Homework 5](/code/homework5_solutions.Rmd)
 - Data
   - [county_elections.csv](/data/county_elections.csv)
   - [nhgis2016state_gini.csv](/data/nhgis2016state_gini.csv)
@@ -99,7 +95,6 @@ draft: false
 ## Week 7
   - Code Files
     - [.R script](/code/lab7.R)
-    - [.Rmd for Homework 6](/code/homework6_solutions.Rmd)
   - Data
     - [counties-clean.csv](/data/counties-clean.csv)
   - Links
