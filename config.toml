@@ -55,6 +55,12 @@ themeColor = "#103E4F"
   identifier = "about"
   weight = 1
   url = "/about"
+  
+  [[menu.main]]
+  name = "CV"
+  identifier = "cv"
+  weight = 1.5
+  url = "https://github.com/bwilden/cv/raw/master/wilden_cv.pdf"
 
   [[menu.main]]
   name = "Contact"
