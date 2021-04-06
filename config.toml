@@ -82,9 +82,9 @@ themeColor = "#103E4F"
   
   [[menu.main]]
   name = "Code Projects"
-  identifier = "data"
+  identifier = "code-projects"
   weight = 5
-  url = "/data"
+  url = "/code-projects"
   
 ##  [[menu.main]]
 ##  name = "Categories"
